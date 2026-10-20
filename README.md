@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bigbastik.com/assets/logo2-y465P93K.png" alt="AI SlideEngine Logo" width="140" />
+  <img src="https://ase.bigbastik.com/assets/logo2-y465P93K.png" alt="AI SlideEngine Logo" width="140" />
 </p>
 
 <h1 align="center">AI SlideEngine Web</h1>
