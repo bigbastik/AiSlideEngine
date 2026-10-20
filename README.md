@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://bigbastik.com">Apri l'app</a>
+  👉 <a href="https://ase.bigbastik.com">Apri l'app</a>
 </p>
 
 ---
